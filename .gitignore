@@ -2,7 +2,8 @@
 public/
 .hugo_build.lock
 .hugo_cache/
-resources/_gen/
+resources/
+hugo_stats.json
 
 # OS / Editor stuff
 .DS_Store
