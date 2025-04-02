@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ‘’
+title: Zibo Selena Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: ‘’
@@ -47,9 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - AI-Mediated Communication
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +181,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a second-year Master Student at David R. Cheriton School of Computer Science, University of Waterloo, under the supervision of Dr. Jian Zhao. Previously I completed my Bachelor of Science degree in Psychology at University of Toronto.
+
+My current research focuses on AI-mediated communication, specifically and how the tone of AI writing tools affects how people perceive social situations. More broadly, I am passionate about understanding how digital tools shape human interactions, particularly how it may either facilitate or hinder cross-cultural communication and understanding.
