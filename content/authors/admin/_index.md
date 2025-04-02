@@ -53,8 +53,8 @@ interests:
 education:
   - area: M.Math in Computer Science
     institution: University of Waterloo
-    date_start: 2023-09
-    date_end: Present
+    date_start: 2023-09-01
+    date_end: 2025-07-01
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -62,8 +62,8 @@ education:
     #   url: 'https://example.com'
   - area: B.Sc in Psychology
     institution: University of Toronto
-    date_start: 2018-09
-    date_end: 2023-06
+    date_start: 2018-09-01
+    date_end: 2023-06-01
   #   summary: |
   #     GPA: 3.8/4.0
 
@@ -155,20 +155,20 @@ education:
 awards:
   - title: University of Waterloo Graduate Scholarship
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023'
+    # date: '2023'
     awarder: University of Waterloo
     # icon: coursera
-    summary: |
-      University of Waterloo scholarship for graduate students
-    - title: International Masters Award Excellence Scholarship
+    # summary: |
+    # University of Waterloo scholarship for graduate students
+  - title: International Masters Award Excellence Scholarship
     awarder: University of Waterloo
-    date: '2023'
-    - title: Dean’s List Scholar (four consecutive years)
+    # date: '2023'
+  - title: Dean’s List Scholar (four consecutive years)
     awarder: University of Toronto
-    date: '2018-2023'
-    - title: E-Fund Scholarship (entrance scholarship)
+    # date: '2018-2023'
+  - title: E-Fund Scholarship (entrance scholarship)
     awarder: University of Toronto
-    date: '2018'
+    # date: '2018'
 
 ---
 
