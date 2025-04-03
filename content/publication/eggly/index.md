@@ -13,7 +13,7 @@ date: '2023-06-01'
 publishDate: '2025-04-02T20:40:09.530801Z'
 publication_types:
 - article-journal
-publication: '*Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.*'
+publication: '*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*'
 # doi: 10.1145/3596251
 abstract: Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder that affects
   how children communicate and relate to other people and the world around them. Emerging
