@@ -15,7 +15,7 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 2024 CHI Conference on Human Factors in Computing
   Systems*'
-doi: 10.1145/3613904.3642101
+# doi: 10.1145/3613904.3642101
 abstract: Voice messages, by nature, prevent users from gauging the emotional tone
   without fully diving into the audio content. This hinders the shared emotional experience
   at the pre-retrieval stage. Research scarcely explored “Emotional Teasers”—pre-retrieval
@@ -41,43 +41,42 @@ links:
   url: https://doi.org/10.1145/3613904.3642101
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3613904.3642101'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: 'https://www.youtube.com/watch?v=IyyO3kR5bSU'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
