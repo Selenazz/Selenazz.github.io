@@ -55,6 +55,10 @@ education:
     institution: University of Waterloo
     date_start: 2023-09-01
     date_end: 2025-07-01
+    summary: |
+      **Awards and Scholarships:**
+        - University of Waterloo Graduate Scholarship
+        - International Masters Award Excellence Scholarship
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -64,6 +68,10 @@ education:
     institution: University of Toronto
     date_start: 2018-09-01
     date_end: 2023-06-01
+    summary: |
+      **Awards and Scholarships:**
+        - Dean’s List Scholar (four consecutive years)
+        - E-Fund Scholarship (entrance scholarship)
   #   summary: |
   #     GPA: 3.8/4.0
 
@@ -82,29 +90,27 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2016-01-01
-#     date_end: 2020-12-31
-#     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Customer Insights Co-op
+    company_name: Loblaw Companies Ltd.
+    company_url: ''
+    company_logo: 'loblaw.png'
+    date_start: 2022-01-01
+    date_end: 2022-04-01
+    summary: |2-
+      - **Main Project:** Developed a report outlining key customer goals during grocery shopping. Identified design guidelines for effective in-store stimuli to capture attention and influence shopping behaviours.
+      - **Contributions:** Collected and analyzed customer preferences and behavioral patterns, delivering impactful insights to guide business decisions.
+      - **Methods/tools:** Literature review, semi-structured interview, online focus group
+  - position: Product Assistant Intern
+    company_name: Facedrive Inc.
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-12-01
+    date_end: 2021-04-01
+    summary: |
+      - **Main Project:** App Design: Integrated the company’s rideshare and food delivery services into a single, unified Superapp.
+      - **Contributions:** Engaged with internal stakeholders to gather requirements and conducted user interviews to understand needs, ensuring the new app design meets the expectations of customers who use both services.
+      - **Methods/tools:** User interview, stakeholder interview, telephone survey, usability testing, Adobe XD for low and high-fidelity prototyping
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

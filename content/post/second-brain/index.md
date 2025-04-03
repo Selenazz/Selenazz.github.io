@@ -7,6 +7,7 @@ authors:
 tags:
   - Second Brain
   - Markdown
+  - Hugo Blox
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
