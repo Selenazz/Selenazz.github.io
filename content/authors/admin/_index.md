@@ -112,6 +112,38 @@ work:
       - **Contributions:** Engaged with internal stakeholders to gather requirements and conducted user interviews to understand needs, ensuring the new app design meets the expectations of customers who use both services.
       - **Methods/tools:** User interview, stakeholder interview, telephone survey, usability testing, Adobe XD for low and high-fidelity prototyping
 
+research:
+  - position: Graduate Student Researcher
+    company_name: Wvisdom Lab, University of Waterloo
+    icon: hero/book-open
+    company_url: ""
+    date_start: 2023-09-01
+    date_end: ''
+    summary: |
+      **Advisor:** Jian Zhao
+
+      - **Topic 1:** The Influence of AI’s Polite Language Choices on People’s Social Perception in Email Writing Tasks (In submission)
+      - **Topic 2:** Enhanced Computational Notebook to Facilitate Mixed-Methods Analysis
+
+  - position: Undergraduate Research Assistant
+    company_name: Wvisdom Lab, University of Waterloo
+    date_start: 2020-09-01
+    date_end: 2023-09-01
+    summary: |
+      **Advisor:** Jian Zhao
+
+      - **Topic 1:** Eggly: Neurofeedback Training Game for Children with ASD
+      - **Topic 2:** Emowear: Animated Chat Bubbles to Enhance Emotional Communication
+  
+  - position: Independent Research Project
+    company_name: University of Waterloo
+    date_start: 2022-09-01
+    date_end: 2023-05-01
+    summary: |
+      **Advisor:** Ada Hurst
+
+      - **Topic:** Cross-Cultural Design Curricula in Canadian Educational Institutions
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
