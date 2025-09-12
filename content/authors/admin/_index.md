@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: M.Math Student
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,6 +51,19 @@ interests:
   - Social Computing
 
 education:
+  - area: PhD in Computer Science
+    institution: University of Waterloo
+    date_start: 2025-09-01
+    date_end: 2029-07-01
+    summary: |
+      **Awards and Scholarships:**
+        - University of Waterloo Graduate Scholarship
+        - International Masters Award Excellence Scholarship
+    # summary: |
+      #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      # button:
+      #   text: 'Read Thesis'
+      #   url: 'https://example.com'
   - area: M.Math in Computer Science
     institution: University of Waterloo
     date_start: 2023-09-01
@@ -59,8 +72,9 @@ education:
       **Awards and Scholarships:**
         - University of Waterloo Graduate Scholarship
         - International Masters Award Excellence Scholarship
-    # summary: |
-    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      
+      **Thesis:**
+        - Exploring How AI-Suggested Politeness Strategies Influence Email Writing and Social Perception Among Native and Non-Native Speakers
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -212,6 +226,6 @@ awards:
 
 ## About Me
 
-I am currently a second-year Master Student at David R. Cheriton School of Computer Science, University of Waterloo, under the supervision of Dr. Jian Zhao. Previously I completed my Bachelor of Science degree in Psychology at University of Toronto.
+I am currently a first-year PhD student at David R. Cheriton School of Computer Science, University of Waterloo, under the supervision of Dr. Jian Zhao. Previously I completed my Master of Mathematics degree in Waterloo, also with Dr. Jian Zhao. Before that, I received my Bachelor of Science degree in Psychology at University of Toronto.
 
 My current research focuses on AI-mediated communication, specifically and how the tone of AI writing tools affects how people perceive social situations. More broadly, I am passionate about understanding how digital tools shape human interactions, particularly how it may either facilitate or hinder cross-cultural communication and understanding.
