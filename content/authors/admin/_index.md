@@ -57,8 +57,8 @@ education:
     date_end: 2029-07-01
     summary: |
       **Awards and Scholarships:**
-        - University of Waterloo Graduate Scholarship
-        - International Masters Award Excellence Scholarship
+        - Provost Doctoral Entrance Award for Women
+        - International Doctoral Student Award (IDSA)
     # summary: |
       #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
       # button:
