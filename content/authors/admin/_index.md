@@ -136,7 +136,7 @@ research:
     summary: |
       **Advisor:** Jian Zhao
 
-      - **Topic 1:** The Influence of AI’s Polite Language Choices on People’s Social Perception in Email Writing Tasks (In submission)
+      - **Topic 1:** The Influence of AI’s Polite Language Choices on People’s Social Perception in Email Writing Tasks (Published in [Proc. ACM Hum.-Comput. Interact.](https://doi.org/10.1145/3816942), 2026)
       - **Topic 2:** Enhanced Computational Notebook to Facilitate Mixed-Methods Analysis
 
   - position: Undergraduate Research Assistant
@@ -226,6 +226,6 @@ awards:
 
 ## About Me
 
-I am currently a first-year PhD student at David R. Cheriton School of Computer Science, University of Waterloo, under the supervision of Dr. Jian Zhao. Previously I completed my Master of Mathematics degree in Waterloo, also with Dr. Jian Zhao. Before that, I received my Bachelor of Science degree in Psychology at University of Toronto.
+I am currently a second-year PhD student at David R. Cheriton School of Computer Science, University of Waterloo, under the supervision of Dr. Jian Zhao. Previously I completed my Master of Mathematics degree in Waterloo, also with Dr. Jian Zhao. Before that, I received my Bachelor of Science degree in Psychology at University of Toronto.
 
 My current research focuses on AI-mediated communication, specifically and how the tone of AI writing tools affects how people perceive social situations. More broadly, I am passionate about understanding how digital tools shape human interactions, particularly how it may either facilitate or hinder cross-cultural communication and understanding.
