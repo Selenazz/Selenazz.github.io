@@ -35,6 +35,10 @@ tags:
 - Social Perception
 - Native and Non-native Speakers
 
+links:
+- name: URL
+  url: http://camps.aptaracorp.com//ACM_PMS/PMS/ACM/PACMHCI/PACMHCIV10I6/3966/4b668b4e-56bb-11f1-b513-16ffd757ba29/OUT/PACMHCIv10i6-3966.html
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -71,7 +75,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '/publication/politeness/politeness-cscw2026.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
