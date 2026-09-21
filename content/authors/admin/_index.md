@@ -228,4 +228,4 @@ awards:
 
 I am currently a second-year PhD student at David R. Cheriton School of Computer Science, University of Waterloo, under the supervision of Dr. Jian Zhao. Previously I completed my Master of Mathematics degree in Waterloo, also with Dr. Jian Zhao. Before that, I received my Bachelor of Science degree in Psychology at University of Toronto.
 
-My current research focuses on AI-mediated communication, specifically and how the tone of AI writing tools affects how people perceive social situations. More broadly, I am passionate about understanding how digital tools shape human interactions, particularly how it may either facilitate or hinder cross-cultural communication and understanding.
+My research explores how knowledge workers communicate partially formed intentions to generative AI, and how delegating parts of the thinking process to AI affects their cognitive effort, judgement, and actions. I study this process across social communication, ideation, and design. Through empirical studies, I aim to design interactions that support people in forming their intentions and deciding which parts of the thinking process to delegate.
