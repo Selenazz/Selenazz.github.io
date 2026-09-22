@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - AI-Mediated Communication
-  - Social Computing
+  - Human–AI Co-Creativity
 
 education:
   - area: PhD in Computer Science
