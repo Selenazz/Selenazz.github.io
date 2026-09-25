@@ -37,7 +37,7 @@ tags:
 
 links:
 - name: URL
-  url: http://camps.aptaracorp.com//ACM_PMS/PMS/ACM/PACMHCI/PACMHCIV10I6/3966/4b668b4e-56bb-11f1-b513-16ffd757ba29/OUT/PACMHCIv10i6-3966.html
+  url: https://dl.acm.org/doi/10.1145/3816942
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
